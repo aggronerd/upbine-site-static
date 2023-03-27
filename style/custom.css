@@ -1,0 +1,29 @@
+.footer-blurb
+{
+  text-align: center;
+}
+
+.service {
+  &-icon {
+    width: 50px;
+    float: left;
+    margin: 20px 0 0 0;
+    color: $brand-primary;
+  }
+
+  &-description {
+    margin-left: 50px;
+  }
+}
+
+.project-description {
+  min-height: 120px;
+}
+
+.footer-row {
+  padding-top: 200px;
+}
+
+span.white-text {
+  color: white;
+}
